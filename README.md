@@ -1,4 +1,8 @@
-# SeminarioBackEnd-VersionamentoDeAPIs-EstrategiasEDesafios
+# SeminarioBackEnd - Versionamento de APIs: Estrategias E Desafios
+Este repositório contém o material e as referências utilizadas para o seminário sobre versionamento de APIs, apresentado na disciplina de Back End Framework no curso de engenharia da computação da faculdade uninassau. O seminário aborda a importância do versionamento em APIs, assim como estratégias para uma implementação eficaz.
+
+
+
 
 arquivo temporario do slide
 https://docs.google.com/presentation/d/1iCbQyjIRNMMkGZUqxL-5EwErbwCi1mRjQW9PNRHmyME/edit?usp=sharing
